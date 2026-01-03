@@ -1,0 +1,3 @@
+device: cuda
+gpu_id: 0
+use_amp: true
